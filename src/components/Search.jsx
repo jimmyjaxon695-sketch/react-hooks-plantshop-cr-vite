@@ -13,6 +13,6 @@ function Search({ searchTerm, onSearch }) {
       />
     </div>
   );
-}z
+}
 
 export default Search;
